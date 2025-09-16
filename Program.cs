@@ -1,4 +1,4 @@
-﻿
+﻿/*
 Console.WriteLine("Hello, World!");
 
 Televisao tv = new Televisao(55f);
@@ -169,3 +169,4 @@ Console.WriteLine($"Canal {tv.Canal}");
 
 tv.MudarUmCanalAcima();
 Console.WriteLine($"Canal {tv.Canal}");
+*/
