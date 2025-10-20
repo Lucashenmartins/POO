@@ -8,9 +8,8 @@ public class CartaoDebito
     public string NomeTitular { get; set; }
     public BandeiraCartao Bandeira { get; set; }
     public DateTime DataValidade { get; set; }
-    public string CodigoSeguranca { get; set; }
-}
 
+}
 public enum BandeiraCartao
 {
     VISA,

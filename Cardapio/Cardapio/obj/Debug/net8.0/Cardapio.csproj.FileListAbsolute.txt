@@ -1,0 +1,15 @@
+/workspaces/POO/Cardapio/Cardapio/obj/Debug/net8.0/Cardapio.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/POO/Cardapio/Cardapio/obj/Debug/net8.0/Cardapio.AssemblyInfoInputs.cache
+/workspaces/POO/Cardapio/Cardapio/obj/Debug/net8.0/Cardapio.AssemblyInfo.cs
+/workspaces/POO/Cardapio/Cardapio/obj/Debug/net8.0/Cardapio.csproj.CoreCompileInputs.cache
+/workspaces/POO/Cardapio/Cardapio/obj/Debug/net8.0/Cardapio.sourcelink.json
+/workspaces/POO/Cardapio/Cardapio/bin/Debug/net8.0/Cardapio
+/workspaces/POO/Cardapio/Cardapio/bin/Debug/net8.0/Cardapio.deps.json
+/workspaces/POO/Cardapio/Cardapio/bin/Debug/net8.0/Cardapio.runtimeconfig.json
+/workspaces/POO/Cardapio/Cardapio/bin/Debug/net8.0/Cardapio.dll
+/workspaces/POO/Cardapio/Cardapio/bin/Debug/net8.0/Cardapio.pdb
+/workspaces/POO/Cardapio/Cardapio/obj/Debug/net8.0/Cardapio.dll
+/workspaces/POO/Cardapio/Cardapio/obj/Debug/net8.0/refint/Cardapio.dll
+/workspaces/POO/Cardapio/Cardapio/obj/Debug/net8.0/Cardapio.pdb
+/workspaces/POO/Cardapio/Cardapio/obj/Debug/net8.0/Cardapio.genruntimeconfig.cache
+/workspaces/POO/Cardapio/Cardapio/obj/Debug/net8.0/ref/Cardapio.dll
