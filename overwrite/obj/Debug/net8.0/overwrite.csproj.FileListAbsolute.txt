@@ -1,0 +1,15 @@
+/workspaces/POO/overwrite/bin/Debug/net8.0/overwrite
+/workspaces/POO/overwrite/bin/Debug/net8.0/overwrite.deps.json
+/workspaces/POO/overwrite/bin/Debug/net8.0/overwrite.runtimeconfig.json
+/workspaces/POO/overwrite/bin/Debug/net8.0/overwrite.dll
+/workspaces/POO/overwrite/bin/Debug/net8.0/overwrite.pdb
+/workspaces/POO/overwrite/obj/Debug/net8.0/overwrite.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/POO/overwrite/obj/Debug/net8.0/overwrite.AssemblyInfoInputs.cache
+/workspaces/POO/overwrite/obj/Debug/net8.0/overwrite.AssemblyInfo.cs
+/workspaces/POO/overwrite/obj/Debug/net8.0/overwrite.csproj.CoreCompileInputs.cache
+/workspaces/POO/overwrite/obj/Debug/net8.0/overwrite.sourcelink.json
+/workspaces/POO/overwrite/obj/Debug/net8.0/overwrite.dll
+/workspaces/POO/overwrite/obj/Debug/net8.0/refint/overwrite.dll
+/workspaces/POO/overwrite/obj/Debug/net8.0/overwrite.pdb
+/workspaces/POO/overwrite/obj/Debug/net8.0/overwrite.genruntimeconfig.cache
+/workspaces/POO/overwrite/obj/Debug/net8.0/ref/overwrite.dll
